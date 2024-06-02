@@ -38,6 +38,7 @@ export default function WeatherApp() {
   return (
     <div>
       <input
+        type="text"
         className="input"
         placeholder="Enter city name"
         name="text"
